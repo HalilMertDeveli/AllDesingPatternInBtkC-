@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\obj\Debug\net6.0\CompositePtrn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\obj\Debug\net6.0\CompositePtrn.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\obj\Debug\net6.0\CompositePtrn.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\obj\Debug\net6.0\CompositePtrn.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\bin\Debug\net6.0\CompositePtrn.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\bin\Debug\net6.0\CompositePtrn.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\bin\Debug\net6.0\CompositePtrn.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\bin\Debug\net6.0\CompositePtrn.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\bin\Debug\net6.0\CompositePtrn.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\obj\Debug\net6.0\CompositePtrn.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\obj\Debug\net6.0\refint\CompositePtrn.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\obj\Debug\net6.0\CompositePtrn.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\obj\Debug\net6.0\CompositePtrn.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CompositePtrn\obj\Debug\net6.0\ref\CompositePtrn.dll

@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\obj\Debug\net6.0\FacedDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\obj\Debug\net6.0\FacedDesign.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\obj\Debug\net6.0\FacedDesign.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\obj\Debug\net6.0\FacedDesign.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\bin\Debug\net6.0\FacedDesign.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\bin\Debug\net6.0\FacedDesign.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\bin\Debug\net6.0\FacedDesign.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\bin\Debug\net6.0\FacedDesign.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\bin\Debug\net6.0\FacedDesign.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\obj\Debug\net6.0\FacedDesign.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\obj\Debug\net6.0\refint\FacedDesign.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\obj\Debug\net6.0\FacedDesign.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\obj\Debug\net6.0\FacedDesign.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\FacedDesign\obj\Debug\net6.0\ref\FacedDesign.dll

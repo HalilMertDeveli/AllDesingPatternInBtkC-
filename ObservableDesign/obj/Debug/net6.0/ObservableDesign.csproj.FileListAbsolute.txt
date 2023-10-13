@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\bin\Debug\net6.0\ObservableDesign.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\bin\Debug\net6.0\ObservableDesign.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\bin\Debug\net6.0\ObservableDesign.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\bin\Debug\net6.0\ObservableDesign.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\bin\Debug\net6.0\ObservableDesign.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\obj\Debug\net6.0\ObservableDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\obj\Debug\net6.0\ObservableDesign.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\obj\Debug\net6.0\ObservableDesign.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\obj\Debug\net6.0\ObservableDesign.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\obj\Debug\net6.0\ObservableDesign.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\obj\Debug\net6.0\refint\ObservableDesign.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\obj\Debug\net6.0\ObservableDesign.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\obj\Debug\net6.0\ObservableDesign.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ObservableDesign\obj\Debug\net6.0\ref\ObservableDesign.dll

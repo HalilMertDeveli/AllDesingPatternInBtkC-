@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\bin\Debug\net6.0\ProxyPtrn.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\bin\Debug\net6.0\ProxyPtrn.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\bin\Debug\net6.0\ProxyPtrn.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\bin\Debug\net6.0\ProxyPtrn.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\bin\Debug\net6.0\ProxyPtrn.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\obj\Debug\net6.0\ProxyPtrn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\obj\Debug\net6.0\ProxyPtrn.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\obj\Debug\net6.0\ProxyPtrn.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\obj\Debug\net6.0\ProxyPtrn.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\obj\Debug\net6.0\ProxyPtrn.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\obj\Debug\net6.0\refint\ProxyPtrn.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\obj\Debug\net6.0\ProxyPtrn.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\obj\Debug\net6.0\ProxyPtrn.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ProxyPtrn\obj\Debug\net6.0\ref\ProxyPtrn.dll

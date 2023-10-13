@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\bin\Debug\net6.0\Multitone.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\bin\Debug\net6.0\Multitone.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\bin\Debug\net6.0\Multitone.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\bin\Debug\net6.0\Multitone.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\bin\Debug\net6.0\Multitone.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\obj\Debug\net6.0\Multitone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\obj\Debug\net6.0\Multitone.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\obj\Debug\net6.0\Multitone.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\obj\Debug\net6.0\Multitone.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\obj\Debug\net6.0\Multitone.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\obj\Debug\net6.0\refint\Multitone.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\obj\Debug\net6.0\Multitone.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\obj\Debug\net6.0\Multitone.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Multitone\obj\Debug\net6.0\ref\Multitone.dll

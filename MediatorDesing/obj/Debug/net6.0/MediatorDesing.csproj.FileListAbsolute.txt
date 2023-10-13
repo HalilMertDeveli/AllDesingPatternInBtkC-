@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\bin\Debug\net6.0\MediatorDesing.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\bin\Debug\net6.0\MediatorDesing.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\bin\Debug\net6.0\MediatorDesing.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\bin\Debug\net6.0\MediatorDesing.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\bin\Debug\net6.0\MediatorDesing.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\obj\Debug\net6.0\MediatorDesing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\obj\Debug\net6.0\MediatorDesing.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\obj\Debug\net6.0\MediatorDesing.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\obj\Debug\net6.0\MediatorDesing.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\obj\Debug\net6.0\MediatorDesing.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\obj\Debug\net6.0\refint\MediatorDesing.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\obj\Debug\net6.0\MediatorDesing.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\obj\Debug\net6.0\MediatorDesing.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\MediatorDesing\obj\Debug\net6.0\ref\MediatorDesing.dll

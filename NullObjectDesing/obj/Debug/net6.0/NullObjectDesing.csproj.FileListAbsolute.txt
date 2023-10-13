@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\bin\Debug\net6.0\NullObjectDesing.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\bin\Debug\net6.0\NullObjectDesing.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\bin\Debug\net6.0\NullObjectDesing.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\bin\Debug\net6.0\NullObjectDesing.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\bin\Debug\net6.0\NullObjectDesing.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\obj\Debug\net6.0\NullObjectDesing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\obj\Debug\net6.0\NullObjectDesing.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\obj\Debug\net6.0\NullObjectDesing.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\obj\Debug\net6.0\NullObjectDesing.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\obj\Debug\net6.0\NullObjectDesing.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\obj\Debug\net6.0\refint\NullObjectDesing.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\obj\Debug\net6.0\NullObjectDesing.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\obj\Debug\net6.0\NullObjectDesing.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\NullObjectDesing\obj\Debug\net6.0\ref\NullObjectDesing.dll

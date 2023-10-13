@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\obj\Debug\net6.0\StrategyDesignPtrn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\obj\Debug\net6.0\StrategyDesignPtrn.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\obj\Debug\net6.0\StrategyDesignPtrn.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\obj\Debug\net6.0\StrategyDesignPtrn.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\bin\Debug\net6.0\StrategyDesignPtrn.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\bin\Debug\net6.0\StrategyDesignPtrn.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\bin\Debug\net6.0\StrategyDesignPtrn.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\bin\Debug\net6.0\StrategyDesignPtrn.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\bin\Debug\net6.0\StrategyDesignPtrn.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\obj\Debug\net6.0\StrategyDesignPtrn.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\obj\Debug\net6.0\refint\StrategyDesignPtrn.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\obj\Debug\net6.0\StrategyDesignPtrn.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\obj\Debug\net6.0\StrategyDesignPtrn.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\StrategyDesignPtrn\obj\Debug\net6.0\ref\StrategyDesignPtrn.dll

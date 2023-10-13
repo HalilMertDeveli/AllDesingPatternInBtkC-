@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\bin\Debug\net6.0\BridgePtrn.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\bin\Debug\net6.0\BridgePtrn.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\bin\Debug\net6.0\BridgePtrn.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\bin\Debug\net6.0\BridgePtrn.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\bin\Debug\net6.0\BridgePtrn.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\obj\Debug\net6.0\BridgePtrn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\obj\Debug\net6.0\BridgePtrn.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\obj\Debug\net6.0\BridgePtrn.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\obj\Debug\net6.0\BridgePtrn.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\obj\Debug\net6.0\BridgePtrn.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\obj\Debug\net6.0\refint\BridgePtrn.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\obj\Debug\net6.0\BridgePtrn.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\obj\Debug\net6.0\BridgePtrn.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\BridgePtrn\obj\Debug\net6.0\ref\BridgePtrn.dll

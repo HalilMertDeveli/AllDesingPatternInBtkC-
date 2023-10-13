@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\bin\Debug\net6.0\AdapterPat.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\bin\Debug\net6.0\AdapterPat.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\bin\Debug\net6.0\AdapterPat.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\bin\Debug\net6.0\AdapterPat.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\bin\Debug\net6.0\AdapterPat.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\obj\Debug\net6.0\AdapterPat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\obj\Debug\net6.0\AdapterPat.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\obj\Debug\net6.0\AdapterPat.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\obj\Debug\net6.0\AdapterPat.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\obj\Debug\net6.0\AdapterPat.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\obj\Debug\net6.0\refint\AdapterPat.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\obj\Debug\net6.0\AdapterPat.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\obj\Debug\net6.0\AdapterPat.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\AdapterPat\obj\Debug\net6.0\ref\AdapterPat.dll

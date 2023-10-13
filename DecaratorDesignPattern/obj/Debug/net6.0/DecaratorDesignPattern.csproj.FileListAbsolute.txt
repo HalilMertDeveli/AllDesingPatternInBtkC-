@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\bin\Debug\net6.0\DecaratorDesignPattern.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\bin\Debug\net6.0\DecaratorDesignPattern.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\bin\Debug\net6.0\DecaratorDesignPattern.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\bin\Debug\net6.0\DecaratorDesignPattern.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\bin\Debug\net6.0\DecaratorDesignPattern.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\obj\Debug\net6.0\DecaratorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\obj\Debug\net6.0\DecaratorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\obj\Debug\net6.0\DecaratorDesignPattern.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\obj\Debug\net6.0\DecaratorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\obj\Debug\net6.0\DecaratorDesignPattern.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\obj\Debug\net6.0\refint\DecaratorDesignPattern.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\obj\Debug\net6.0\DecaratorDesignPattern.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\obj\Debug\net6.0\DecaratorDesignPattern.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\DecaratorDesignPattern\obj\Debug\net6.0\ref\DecaratorDesignPattern.dll

@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\bin\Debug\net6.0\PrototypePattern.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\obj\Debug\net6.0\refint\PrototypePattern.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\obj\Debug\net6.0\PrototypePattern.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\PrototypePattern\obj\Debug\net6.0\ref\PrototypePattern.dll

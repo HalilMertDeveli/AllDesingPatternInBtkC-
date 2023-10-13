@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\bin\Debug\net6.0\TemplateMethodDesign.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\bin\Debug\net6.0\TemplateMethodDesign.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\bin\Debug\net6.0\TemplateMethodDesign.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\bin\Debug\net6.0\TemplateMethodDesign.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\bin\Debug\net6.0\TemplateMethodDesign.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\obj\Debug\net6.0\TemplateMethodDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\obj\Debug\net6.0\TemplateMethodDesign.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\obj\Debug\net6.0\TemplateMethodDesign.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\obj\Debug\net6.0\TemplateMethodDesign.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\obj\Debug\net6.0\TemplateMethodDesign.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\obj\Debug\net6.0\refint\TemplateMethodDesign.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\obj\Debug\net6.0\TemplateMethodDesign.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\obj\Debug\net6.0\TemplateMethodDesign.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\TemplateMethodDesign\obj\Debug\net6.0\ref\TemplateMethodDesign.dll

@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\bin\Debug\net6.0\Memento.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\bin\Debug\net6.0\Memento.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\bin\Debug\net6.0\Memento.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\bin\Debug\net6.0\Memento.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\bin\Debug\net6.0\Memento.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\obj\Debug\net6.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\obj\Debug\net6.0\Memento.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\obj\Debug\net6.0\Memento.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\obj\Debug\net6.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\obj\Debug\net6.0\Memento.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\obj\Debug\net6.0\refint\Memento.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\obj\Debug\net6.0\Memento.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\obj\Debug\net6.0\Memento.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\Memento\obj\Debug\net6.0\ref\Memento.dll

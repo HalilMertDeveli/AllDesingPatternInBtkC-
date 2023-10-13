@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ncp+JVoeP1pg37qmV0EhMo8MRUT1gX45lvY9rbyOs2F+C4QuCrj8D2Gpy7o6GxZl6RQkpFspzGaJBlT8ujZnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\halil\\c_files\\c_visual_studio_folder\\SingletonDesginPattern\\Factory\\Factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

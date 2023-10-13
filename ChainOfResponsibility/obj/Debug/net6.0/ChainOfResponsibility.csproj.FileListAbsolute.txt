@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\obj\Debug\net6.0\refint\ChainOfResponsibility.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\ChainOfResponsibility\obj\Debug\net6.0\ref\ChainOfResponsibility.dll

@@ -1,0 +1,14 @@
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\bin\Debug\net6.0\CommandDesing.exe
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\bin\Debug\net6.0\CommandDesing.deps.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\bin\Debug\net6.0\CommandDesing.runtimeconfig.json
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\bin\Debug\net6.0\CommandDesing.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\bin\Debug\net6.0\CommandDesing.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\obj\Debug\net6.0\CommandDesing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\obj\Debug\net6.0\CommandDesing.AssemblyInfoInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\obj\Debug\net6.0\CommandDesing.AssemblyInfo.cs
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\obj\Debug\net6.0\CommandDesing.csproj.CoreCompileInputs.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\obj\Debug\net6.0\CommandDesing.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\obj\Debug\net6.0\refint\CommandDesing.dll
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\obj\Debug\net6.0\CommandDesing.pdb
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\obj\Debug\net6.0\CommandDesing.genruntimeconfig.cache
+C:\Users\halil\c_files\c_visual_studio_folder\SingletonDesginPattern\CommandDesing\obj\Debug\net6.0\ref\CommandDesing.dll
